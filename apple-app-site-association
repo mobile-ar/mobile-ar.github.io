@@ -1,0 +1,9 @@
+{
+	"applinks": {
+		"apps": [ "6RM2B936BJ.com.followyourgoats.goat" ],
+    	"details": [{
+			"appID": 6RM2B936BJ.com.followyourgoats.goat",
+			"paths": [ "*" ]
+		}]
+	}
+}
